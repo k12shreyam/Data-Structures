@@ -1,8 +1,8 @@
-LINKED LIST IN PYTHON3
+# LINKED LIST IN PYTHON3
 
 Implementation of Linked List in python3
 
-linked_list.py is a simple implementation of Linked List in python3
+**linked_list.py** is a simple implementation of Linked List in python3
 
 Following are the methods implemented.
 
@@ -13,11 +13,11 @@ Following are the methods implemented.
  
  
  
- STACK IN PYTHON3
+ # STACK IN PYTHON3
  
  Implementation of Stack in python3
  
- stack.py is a simple implementation of Stack in python3
+ **stack.py** is a simple implementation of Stack in python3
  
  Following are the methods implemented.
  
